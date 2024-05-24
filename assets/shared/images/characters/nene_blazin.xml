@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nene_blazin.png">
+<SubTexture name="nene Idle Dance0000" x="0" y="0" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0001" x="405" y="0" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0002" x="0" y="334" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0003" x="405" y="334" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0004" x="395" y="1667" width="405" height="325" frameX="-2" frameY="-9" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0005" x="800" y="1667" width="405" height="325" frameX="-2" frameY="-9" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0006" x="1206" y="1667" width="407" height="325" frameX="0" frameY="-10" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0007" x="1613" y="1667" width="407" height="325" frameX="0" frameY="-10" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0008" x="2027" y="0" width="405" height="325" frameX="-2" frameY="-9" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0009" x="2027" y="325" width="405" height="325" frameX="-2" frameY="-9" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0010" x="1219" y="1336" width="405" height="327" frameX="-2" frameY="-8" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0011" x="405" y="1002" width="405" height="333" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0012" x="811" y="1002" width="405" height="333" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0013" x="1216" y="1002" width="405" height="333" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0014" x="811" y="0" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0015" x="811" y="334" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0016" x="0" y="668" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0017" x="405" y="668" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0018" x="811" y="668" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0019" x="814" y="1336" width="405" height="330" frameX="-2" frameY="-4" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0020" x="407" y="1336" width="407" height="331" frameX="0" frameY="-4" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0021" x="0" y="1336" width="407" height="331" frameX="0" frameY="-4" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0022" x="1622" y="995" width="405" height="331" frameX="-2" frameY="-4" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0023" x="1622" y="332" width="405" height="331" frameX="-2" frameY="-3" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0024" x="1622" y="664" width="405" height="331" frameX="-2" frameY="-3" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0025" x="1622" y="0" width="405" height="332" frameX="-2" frameY="-2" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0026" x="1216" y="0" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0027" x="1216" y="334" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0028" x="1216" y="668" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Idle Dance0029" x="0" y="1002" width="405" height="334" frameX="-2" frameY="-1" frameWidth="407" frameHeight="335" />
+<SubTexture name="nene Laughing0000" x="0" y="2315" width="397" height="301" frameX="-2" frameY="-33" frameWidth="399" frameHeight="335" />
+<SubTexture name="nene Laughing0001" x="1580" y="1993" width="397" height="303" frameX="-2" frameY="-31" frameWidth="399" frameHeight="335" />
+<SubTexture name="nene Laughing0002" x="1977" y="1993" width="395" height="302" frameX="-2" frameY="-32" frameWidth="399" frameHeight="335" />
+<SubTexture name="nene Laughing0003" x="2433" y="0" width="395" height="302" frameX="-2" frameY="-32" frameWidth="399" frameHeight="335" />
+<SubTexture name="nene Laughing0004" x="790" y="1993" width="395" height="319" frameX="-2" frameY="-14" frameWidth="399" frameHeight="335" />
+<SubTexture name="nene Laughing0005" x="1185" y="1993" width="395" height="319" frameX="-2" frameY="-14" frameWidth="399" frameHeight="335" />
+<SubTexture name="nene Laughing0006" x="395" y="1993" width="395" height="321" frameX="-2" frameY="-13" frameWidth="399" frameHeight="335" />
+<SubTexture name="nene Laughing0007" x="395" y="1993" width="395" height="321" frameX="-2" frameY="-13" frameWidth="399" frameHeight="335" />
+<SubTexture name="nene Laughing0008" x="0" y="1993" width="395" height="321" frameX="-2" frameY="-12" frameWidth="399" frameHeight="335" />
+<SubTexture name="nene Laughing0009" x="0" y="1993" width="395" height="321" frameX="-2" frameY="-12" frameWidth="399" frameHeight="335" />
+<SubTexture name="nene Cheering0000" x="2027" y="1302" width="397" height="324" frameX="-2" frameY="-2" frameWidth="399" frameHeight="327" />
+<SubTexture name="nene Cheering0001" x="2027" y="1626" width="397" height="324" frameX="-2" frameY="-2" frameWidth="399" frameHeight="327" />
+<SubTexture name="nene Cheering0002" x="2027" y="651" width="395" height="325" frameX="-2" frameY="-1" frameWidth="399" frameHeight="327" />
+<SubTexture name="nene Cheering0003" x="2027" y="976" width="395" height="325" frameX="-2" frameY="-1" frameWidth="399" frameHeight="327" />
+<SubTexture name="nene Cheering0004" x="1625" y="1336" width="395" height="326" frameX="-2" frameY="0" frameWidth="399" frameHeight="327" />
+<SubTexture name="nene Cheering0005" x="0" y="1667" width="395" height="326" frameX="-2" frameY="0" frameWidth="399" frameHeight="327" />
+</TextureAtlas>
