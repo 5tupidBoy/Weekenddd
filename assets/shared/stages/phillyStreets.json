@@ -1,0 +1,25 @@
+{
+	"directory": "weekend1",
+	"defaultZoom": 0.77,
+	"stageUI": "",
+
+	"boyfriend": [1940, 450],
+	"girlfriend": [1200, 414],
+	"opponent": [600, 425],
+
+	"preload": {
+		"images/phillySkybox": 1,
+		"images/phillySkyline": 1,
+		"images/phillyForegroundCity": 1,
+		"images/phillyConstruction": 1,
+		"images/phillyHighwayLights": 1,
+		"images/phillyHighway": 1,
+		"images/phillySmog": 1
+	},
+
+	"_editorMeta": {
+		"dad": "darnell",
+		"boyfriend": "pico-player",
+		"gf": "nene"
+	}
+}
